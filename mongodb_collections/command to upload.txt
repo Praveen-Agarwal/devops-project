@@ -1,0 +1,1 @@
+mongoimport "mongodb+srv://praveenagarwal0901:5agh9xD8wEStGj9d@cluster0.wky5a6v.mongodb.net/myrooms" --collection rooms --type json --jsonArray --file D:\MERNHotelBooking-main\MERNHotelBooking-main\mongodb_collections\rooms.json
